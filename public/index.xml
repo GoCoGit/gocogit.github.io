@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/1/</link>
       <pubDate>Sun, 03 Aug 2025 15:31:31 +0800</pubDate>
       <guid>http://localhost:1313/posts/1/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <description>&lt;p&gt;What is ChatGPT?&#xA;以聊天方式和LLM进行对话的应用&lt;/p&gt;&#xA;&lt;p&gt;What is LLM?&#xA;黑盒，根据数据进行训练，实现根据输入来预测输出&lt;/p&gt;&#xA;&lt;p&gt;用大模型做计算，为什么会存在计算错误的情况？例如9.11-9.9，大模型训练只是文本数据，&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
