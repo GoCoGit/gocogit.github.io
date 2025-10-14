@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on GoCo Blog</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on GoCo Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web 应用项目</title>
+      <link>http://localhost:1313/projects/web-app/</link>
+      <pubDate>Sun, 14 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/web-app/</guid>
+      <description>&lt;h1 id=&#34;web-应用项目&#34;&gt;Web 应用项目&lt;/h1&gt;&#xA;&lt;p&gt;这是一个 Web 应用项目。&lt;/p&gt;&#xA;&lt;p&gt;这个页面的 URL 将是：&lt;code&gt;/projects/web-app/&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

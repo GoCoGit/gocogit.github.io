@@ -23,6 +23,20 @@
       <description>&lt;p&gt;What is ChatGPT?&#xA;以聊天方式和LLM进行对话的应用&lt;/p&gt;&#xA;&lt;p&gt;What is LLM?&#xA;黑盒，根据数据进行训练，实现根据输入来预测输出&lt;/p&gt;&#xA;&lt;p&gt;用大模型做计算，为什么会存在计算错误的情况？例如9.11-9.9，大模型训练只是文本数据，&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 14 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;这是我的个人介绍页面。&lt;/p&gt;&#xA;&lt;p&gt;这个页面的 URL 将是：&lt;code&gt;/about/&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Sun, 14 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;&#xA;&lt;p&gt;如果您对我的作品感兴趣，欢迎通过以下方式联系我：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;邮箱：your-email@example.com&lt;/li&gt;&#xA;&lt;li&gt;GitHub：&lt;a href=&#34;https://github.com/yourusername&#34;&gt;github.com/yourusername&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn：&lt;a href=&#34;https://linkedin.com/in/yourprofile&#34;&gt;linkedin.com/in/yourprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>

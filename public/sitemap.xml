@@ -14,6 +14,12 @@
     <loc>http://localhost:1313/posts/1/</loc>
     <lastmod>2025-08-03T15:31:31+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-01-14T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-01-14T10:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
