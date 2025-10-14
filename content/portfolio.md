@@ -6,8 +6,5 @@ draft = false
 
 ## 联系方式
 
-如果您对我的作品感兴趣，欢迎通过以下方式联系我：
-
-- 邮箱：your-email@example.com
+- 邮箱：chenguo0156@gmail.com
 - GitHub：[github.com/yourusername](https://github.com/yourusername)
-- LinkedIn：[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
