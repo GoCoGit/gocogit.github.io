@@ -1,23 +1,49 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'zh'
 title = 'GoCo Blog'
 theme = 'paper'
+defaultContentLanguage = 'zh'
+
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
+    contentDir = "content/zh"
+    
+    [[languages.zh.menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+    
+    [[languages.zh.menu.main]]
+    name = "作品集"
+    url = "/portfolio/"
+    weight = 2
+    
+    [[languages.zh.menu.main]]
+    name = "关于我"
+    url = "/about/"
+    weight = 3
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    
+    [[languages.en.menu.main]]
+    name = "Home"
+    url = "/en/"
+    weight = 1
+    
+    [[languages.en.menu.main]]
+    name = "Portfolio"
+    url = "/en/portfolio/"
+    weight = 2
+    
+    [[languages.en.menu.main]]
+    name = "About"
+    url = "/en/about/"
+    weight = 3
 
 [markup.goldmark.renderer]
 unsafe = true
-
-[menu]
-  [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
-  
-  [[menu.main]]
-  name = "Portfolio"
-  url = "/portfolio/"
-  weight = 2
-  
-  [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 3
